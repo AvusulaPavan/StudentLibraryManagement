@@ -10,19 +10,19 @@ that have been borrowed with their respective due dates.
 
 Here are the top use cases of the Library Management System:
 
-Add/Remove/Edit book: To add, remove or modify a book or book item.
+1) Add/Remove/Edit book: To add, remove or modify a book or book item.
 
-Search catalog: To search books by title, author, subject or publication date.
+2) Search catalog: To search books by title, author, subject or publication date.
 
-Register new account/cancel membership: To add a new member or cancel the membership of an existing member.
+3) Register new account/cancel membership: To add a new member or cancel the membership of an existing member.
 
-Check-out book: To borrow a book from the library.
+4) Check-out book: To borrow a book from the library.
 
-Reserve book: To reserve a book which is not currently available.
+5) Reserve book: To reserve a book which is not currently available.
 
-Renew a book: To reborrow an already checked-out book.
+6) Renew a book: To reborrow an already checked-out book.
 
-Return a book: To return a book to the library which was issued to a member.
+7) Return a book: To return a book to the library which was issued to a member.
 
 
 ![lib-class-diagram](https://user-images.githubusercontent.com/120267773/224781663-3d00c8e0-be26-484e-8e72-018b7f691ad9.png)
